@@ -17,22 +17,6 @@ The application is intended as an **early-stage planning and decision-support to
 
 The latest Windows version of BicknellWindTool can be downloaded from the **[GitHub Releases](../../releases/latest)** page.
 
-## Installation
-
-BicknellWindTool is currently available for Windows.
-
-1. Go to the **[Releases](../../releases)** section of this repository.
-2. Download the latest version of the BicknellWindTool installer (`BicknellWindTool_Setup.exe`).
-3. Run the downloaded installer.
-4. Follow the installation instructions.
-5. Once installation is complete, launch **BicknellWindTool** from the Windows Start menu or desktop shortcut.
-
-> [!IMPORTANT]
-> Because the application is currently distributed without a code-signing certificate, Windows may display a Microsoft Defender SmartScreen warning when running the installer. If this occurs, select **More info** and then **Run anyway** to proceed with the installation.
-
-> [!NOTE]
-> BicknellWindTool is currently under active development. The downloadable application corresponds to the latest released version of the tool.
-
 ## Main functionalities
 
 BicknellWindTool allows users to:
