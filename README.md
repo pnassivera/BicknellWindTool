@@ -50,7 +50,7 @@ The spatial planning framework combines three dimensions:
 2. **Breeding habitat priority**
 3. **Local habitat aggregation**
 
-Together, these dimensions allow locations to be ranked according to their relative suitability for wind energy development while explicitly accounting for potential impacts on breeding habitat.
+Together, these dimensions allow locations to be ranked according to their relative suitability for wind energy development while accounting for potential impacts on breeding habitat.
 
 ## Status
 
