@@ -65,4 +65,4 @@ Nassivera, P., Lessard, F., Dorion, H., Lemaître, J., Aubry, Y., & Tremblay, J.
 For questions, feedback, or issues related to BicknellWindTool, please contact:
 
 **Pierre Nassivera**  
-📧 pierre.nasivera.ecology@gmail.com
+📧 pierre.nassivera.ecology@gmail.com
