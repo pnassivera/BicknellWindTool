@@ -21,14 +21,14 @@ The latest Windows version of BicknellWindTool can be downloaded from the **[Git
 
 BicknellWindTool allows users to:
 
-- import and define a wind energy project area;
-- quantify the overlap between proposed wind energy development and Bicknell’s Thrush breeding habitat;
-- distinguish impacts according to habitat conservation priority;
-- evaluate changes in landscape metrics associated with wind energy development;
-- explore alternative development areas based on different planning perspectives;
-- compare the ecological impacts of the proposed development area with those of alternative development areas;
-- visualize results through interactive spatial outputs;
-- in future versions, generate standardized outputs to support interpretation and decision-making.
+- import and define a proposed wind energy development area;
+- quantify the overlap between proposed wind energy infrastructure and Bicknell’s Thrush breeding habitat;
+- assess habitat impacts according to conservation priority (mitigation and protection areas);
+- evaluate changes in habitat availability, patch size, and landscape fragmentation associated with wind energy development;
+- identify alternative development areas based on different planning scenarios that balance wind energy potential and habitat conservation;
+- compare the ecological impacts of proposed and alternative development areas;
+- visualize and interpret results through interactive maps, spatial analyses, and quantitative indicators;
+- generate standardized bilingual (English/French) reports summarizing the results, including maps, tables, and habitat impact metrics.
 
 ## Planning scenarios
 
