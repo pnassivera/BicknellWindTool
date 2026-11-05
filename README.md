@@ -66,3 +66,13 @@ For questions, feedback, or issues related to BicknellWindTool, please contact:
 
 **Pierre Nassivera**  
 📧 pierre.nassivera.ecology@gmail.com
+
+## License
+
+- **Software:** Proprietary — All rights reserved
+- **Documentation and original visual materials:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+© 2025–2026 Pierre Nassivera
+
+![License](https://img.shields.io/badge/License-Proprietary-red)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
