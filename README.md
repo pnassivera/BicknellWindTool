@@ -5,7 +5,7 @@
 The tool builds upon the methodology and findings presented in:
 
 **Wind energy development alters breeding habitat of the Bicknell’s Thrush, a threatened range-restricted boreal songbird: evidence for opportunities in biodiversity-informed spatial planning**  
-Nassivera *et al.* (2026) — under review
+Nassivera *et al.* (2026) accepted in *Biological Conservation* (link to publication coming soon).
 
 ## Overview
 
